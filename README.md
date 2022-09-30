@@ -12,3 +12,4 @@ important points after every experience, meeting or event.
 ## Credit & Inspirations
 - [The 30 Second Habit With A Lifelong Impact](https://gregmckeown.com/30-second-habit-lifelong-impact/)
 - [Data Professor's Pomodoro App](https://github.com/dataprofessor/pomodoro-app)
+- [Streamlit resources](https://streamlit-release-demos-0-84streamlit-app-0-84-2ec1k9.streamlitapp.com/?page=headliner)
