@@ -1,0 +1,9 @@
+
+.stButton>button {
+    border-radius: 50%;
+    border: 2px solid #2E86C1; 
+    height: 8em;
+    width: 8em;
+    color: black;
+    
+}
