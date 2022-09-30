@@ -1,6 +1,6 @@
 # 30-Second-Habit-App
 
-![Image description](C:\Users\Yen Chi Nguyen\Desktop\Streamlit\Timer\30-Second-Habit-App) 
+![Image description](30_Seconds_Pink.png?raw=true) 
 ## Introduction
 This app was built with Streamlit and takes the inspiration from an Essentialist practice introduced in Greg McKeown's [blog](https://gregmckeown.com/30-second-habit-lifelong-impact/) 
 in which you spend 30 seconds writing down the most 
